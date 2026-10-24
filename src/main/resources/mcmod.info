@@ -1,0 +1,14 @@
+[
+  {
+    "modid": "${modid}",
+    "name": "View Model",
+    "description": "Налаштування положення, повороту та розміру руки/предмета від першої особи з зручним меню.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "authorList": [],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
